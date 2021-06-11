@@ -36,7 +36,6 @@ const config = {
     [ 'Effect.elm' ],
     [ 'Main.elm' ],
     [ 'Shared.elm' ],
-    [ `Pages`, `${reserved.notFound}.elm` ],
     [ 'View.elm' ]
   ]
 }
